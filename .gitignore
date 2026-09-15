@@ -1,7 +1,7 @@
 # Temporary files
 *.part
 *.tmp
-
+*grib
 # GRIB files (optional, if you don't want to commit them)
 *.grib2
 
