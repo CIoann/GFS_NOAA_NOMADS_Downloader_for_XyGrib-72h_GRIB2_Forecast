@@ -1,7 +1,7 @@
 #!/bin/bash
 # --------------------------------------------------------------------------------------------------------------------------------------
 # File: xygrib-noaa-ui.sh
-# Contribution by: CIoann
+# Contribution by: CIoann and Julio Alberto Lascano https://mastodon.social/@drcalambre
 # Windows support: Git Bash or WSL
 # --------------------------------------------------------------------------------------------------------------------------------------
 # GFS NOAA NOMADS - v1.0.3 — 2026-09-08
